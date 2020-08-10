@@ -7,6 +7,7 @@ melchor | 31일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | h
 rsqlpython | 31일중 28일 이상 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/meucham11 | 
 김동현 | 31일간 매일 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/0916dhkim | 
 Simple | 31일간 매일 TIL 또는 Commit 하기 | 2020-08-01 ~ 2020-08-31 | https://github.com/leechoongyon |
+vztpv | 1주일에 2번 토이프로젝트 공부 커밋하기 | 2020-08-10 ~ | https://github.com/vztpv/Study-For-ClauParser |
 
 ### 참여를 희망하시면, 내용과 날짜를 수정해 주세요!
 | name | goal | date | repo |
