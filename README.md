@@ -28,4 +28,6 @@ TILC는 프로그래밍을 공부하는 사람들이 각자 오늘 배운 내용
 
 ## 챌린지 상세
 
-[06/15 - 07/15 챌린지 도전자 목록](https://github.com/spock-mark1/tilc/blob/master/challengers-06-15~07-15.md)
+[06/15 - 07/15 챌린지 도전자 목록](https://github.com/spock-mark1/tilc/blob/master/challenge-1st.md)
+[08/01 - 08/31 챌린지 도전자 목록](https://github.com/spock-mark1/tilc/blob/master/challenge-2nd.md)
+
